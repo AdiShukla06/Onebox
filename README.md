@@ -58,19 +58,19 @@ npm run build
 This command will generate a dist folder with optimized production files.
 
 ## Usage
-1. Email Management:
-View Emails: Access the list of emails from the Email component.
-Reply to Emails: Click the 'Reply' button to open the Editor component and compose your reply.
-Delete Emails: Click the 'Delete' button to remove an email from the list.
+1.  Email Management:
+- View Emails: Access the list of emails from the Email component.
+- Reply to Emails: Click the 'Reply' button to open the Editor component and compose your reply.
+- Delete Emails: Click the 'Delete' button to remove an email from the list.
 
-2. Toggle Dark Mode: Use the dark mode toggle button in the TopBar to switch themes.
+2.  Toggle Dark Mode: Use the dark mode toggle button in the TopBar to switch themes.
 
 ## Components
 - TopBar: Contains the company name, dark mode toggle, and workspace dropdown.
 - LeftBar: Features the logo, navigation icons, and account icon.
-3. Home: Displays a welcome message and image.
-4. Email: Handles email listing, viewing, and actions like reply and delete.
-5. Editor: Used for composing and sending replies to emails.
+- Home: Displays a welcome message and image.
+- Email: Handles email listing, viewing, and actions like reply and delete.
+- Editor: Used for composing and sending replies to emails.
 
 ## Contrubuting
 I welcome contributions from the community! To contribute:
