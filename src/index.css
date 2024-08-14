@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  .top-bar.dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .top-bar.light {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  /* Home and Email component styles */
+  .bg-black {
+    background-color: #000;
+  }
+  
+  .text-white {
+    color: #fff;
+  }
+  
+  .bg-white {
+    background-color: #fff;
+  }
+  
+  .text-black {
+    color: #000;
+  }
