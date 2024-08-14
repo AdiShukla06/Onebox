@@ -66,8 +66,8 @@ Delete Emails: Click the 'Delete' button to remove an email from the list.
 2. Toggle Dark Mode: Use the dark mode toggle button in the TopBar to switch themes.
 
 ## Components
-1. TopBar: Contains the company name, dark mode toggle, and workspace dropdown.
-2. LeftBar: Features the logo, navigation icons, and account icon.
+- TopBar: Contains the company name, dark mode toggle, and workspace dropdown.
+- LeftBar: Features the logo, navigation icons, and account icon.
 3. Home: Displays a welcome message and image.
 4. Email: Handles email listing, viewing, and actions like reply and delete.
 5. Editor: Used for composing and sending replies to emails.
