@@ -72,7 +72,7 @@ This command will generate a dist folder with optimized production files.
 - Email: Handles email listing, viewing, and actions like reply and delete.
 - Editor: Used for composing and sending replies to emails.
 
-## Contrubuting
+## Contributing
 I welcome contributions from the community! To contribute:
 
 1. Fork the repository.
