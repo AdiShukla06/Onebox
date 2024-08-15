@@ -1,13 +1,13 @@
 import React from 'react';
-import HomeIcon from '../assets/HomeIcon.png';
-import UsersIcon from '../assets/UsersIcon.png';
-import MailIcon from '../assets/MailIcon.png';
-import SendIcon from '../assets/SendIcon.png';
-import ListIcon from '../assets/ListIcon.png';
-import NotificationsIcon from '../assets/NotificationsIcon.png';
-import AnalyticsIcon from '../assets/AnalyticsIcon.png';
-import Logo from '../assets/Logo.png'; // Import your logo
-import AccountIcon from '../assets/user.png'; // Import your account icon
+import HomeIcon from '../assets/HomeIcon.svg';
+import UsersIcon from '../assets/UsersIcon.svg';
+import MailIcon from '../assets/MailIcon.svg';
+import SendIcon from '../assets/SendIcon.svg';
+import ListIcon from '../assets/ListIcon.svg';
+import NotificationsIcon from '../assets/NotificationsIcon.svg';
+import AnalyticsIcon from '../assets/AnalyticsIcon.svg';
+import Logo from '../assets/Logo.svg'; // Import your logo
+import AccountIcon from '../assets/user.svg'; // Import your account icon
 import {useDarkMode} from './DarkModeContext'
 
 function LeftBar({ onIconClick }) {

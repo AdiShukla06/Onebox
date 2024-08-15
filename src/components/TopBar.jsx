@@ -14,7 +14,7 @@ function TopBar() {
 
   return (
     <div
-      className={`bg-gray-100 text-gray-800 p-4 fixed top-0 left-0 right-0 flex items-center justify-between shadow-md ${darkMode ? 'bg-gray-900 text-white' : 'bg-gray-100 text-gray-800'}`}
+      className={` text-gray-800 p-4 fixed top-0 left-0 right-0 flex items-center justify-between shadow-md ${darkMode ? 'bg-black text-white' : 'bg-gray-100 text-gray-800'}`}
       style={{ marginLeft: '80px', width: `calc(100% - 60px)` }} // Adjust width and margin-left based on LeftBar width
     >
       <div className="text-lg font-semibold">
